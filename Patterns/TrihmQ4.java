@@ -2,9 +2,9 @@
 Q4. Write a java program to print this pattern.
 
 			*
-		     *     *
+		  *   *
 		*	*	*
-	     *     *        *     *
+      *   *    *  *
 	*	*	*	*	*
 */
 
@@ -31,4 +31,5 @@ public class TrihmQ4
    
    }
 }
+
 
